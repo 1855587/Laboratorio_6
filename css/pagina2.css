@@ -1,14 +1,18 @@
 img{
-    width: 100%;
+    width: 95%;
     height: auto;
+    z-index: 20;
+    border-radius: 16px;
 }
 
-img{
-    z-index: 20;
-}
 
 nav{
     position: static;
+}
+
+h3{
+    text-align: center;
+    color: rgb(255,70,84);
 }
 
 .container{
@@ -16,7 +20,7 @@ nav{
     position: relative;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align:justify ;
     font-family: 'Bebas Neue', cursive;
     color: white;
 }
